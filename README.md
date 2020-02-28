@@ -1,4 +1,4 @@
-NEMASYSTEM - 2019
+NEMASYSTEM - 2020
 
 O objetivo deste projeto é automatizar a entrada, processamento e saída dos dados de análise nematológicos. 
 
