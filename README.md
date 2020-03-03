@@ -1,4 +1,4 @@
-<h1 align="center">NEMASYSTEM - 2020</h1>
+<h1><b>align="center">NEMASYSTEM - 2020</h1>
 <ul> 
 
 O objetivo deste projeto é automatizar a entrada, processamento e saída dos dados de análise nematológicos. 
@@ -14,18 +14,18 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
   <img src="./imgs/logo.jpeg" title="Nemasystem Logo">
 </p>
 
-<h1 align="center">1.0 ENTREGA 01 (05/03/2020)</h1>
+<h1><b>1.0 ENTREGA 01 (05/03/2020)</h1>
 <ul> 
 <li><b>1.1</b> [EQUIPE E TENA]()</li>
 </ul>
 
-<h1 align="center">2.0 ENTREGA 02 (10/03/2020)</h1>
+<h1><b>2.0 ENTREGA 02 (10/03/2020)</h1>
 <ul>
 <li><b>2.1</b> [MVP - PRODUTO MÍNIMO VIÁVEL]()</li>
 <li><b>2.2</b> [CRONOGRAMA]()</li>
 </ul>
 
-<h1 align="center">3.0 ENTREGA 03 (26/03/2020)</h1>
+<h1><b>3.0 ENTREGA 03 (26/03/2020)</h1>
 <ul>
 <li><b>3.1</b> [CRONOGRAMA]()</li>
 <li><b>3.2</b> [MAPA DO CONHECIMENTO]()</li>
@@ -33,7 +33,7 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
 <li><b>3.4</b> [PROJEC CHARTER]()</li>
 </ul>
 
-<h1 align="center">4.0 ENTREGA 04 (31/03/2020)</h1>
+<h1><b>4.0 ENTREGA 04 (31/03/2020)</h1>
 <ul>
 <li><b>4.1</b> [MONTAGEM DO AMBIENTE DE DESENVOLVIMENTO]()</li>
 <li><b>4.2</b> [MONTAGEM DO GITLAB]()</li>
@@ -41,13 +41,13 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
 <li><b>4.4</b> [MAPA DE DEFINIÇÃO TECNOLÓGICA]()</li>
 </ul>
 
-<h1 align="center">5.0 SPRINT 01 (16/04/2020)</h1>
+<h1><b>5.0 SPRINT 01 (16/04/2020)</h1>
 <ul>
 <li><b>5.1</b> [ARQUITETURA DE SOLUÇÃO]()</li>
 <li><b>5.2</b> [DIAGRAMA DE TELAS (ORGANOGRAMA)]()</li>
 </ul>
 
-<h1 align="center">6.0 SPRINT 02 (30/04/2020)</h1>
+<h1><b>6.0 SPRINT 02 (30/04/2020)</h1>
 <ul>
 <li><b>6.1</b> [MODELAGEM DE DADOS]()</li>
 <li><b>6.2</b> [MOCK UP DAS TELAS (DESENHO DAS TELAS]()</li>
@@ -87,6 +87,6 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
 
 <h1><b>10.0 ENTREGA DO VÍDEO FINAL (30/04/2020)</h1>
 <ul>
-<li><b>6.1</b> [APRESENTAÇÃO DO PROJETO EM VÍDEO]()</li>
+<li><b>10.1</b> [APRESENTAÇÃO DO PROJETO EM VÍDEO]()</li>
 </ul>
 <br>
