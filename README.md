@@ -1,4 +1,4 @@
-<h1><b>align="center">NEMASYSTEM - 2020</h1>
+<h1><b><align="center">NEMASYSTEM - 2020</h1>
 <ul> 
 
 O objetivo deste projeto é automatizar a entrada, processamento e saída dos dados de análise nematológicos. 
@@ -16,7 +16,7 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
 
 <h1><b>1.0 ENTREGA 01 (05/03/2020)</h1>
 <ul> 
-<li><b>1.1</b> [EQUIPE E TENA]()</li>
+<li><b>1.1</b> [EQUIPE E TENA](https://drive.google.com/open?id=1RjranTYG8ntq7jZjg3wKJ1qzRvF8aZY3)</li>
 </ul>
 
 <h1><b>2.0 ENTREGA 02 (10/03/2020)</h1>
