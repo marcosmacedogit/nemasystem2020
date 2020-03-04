@@ -11,7 +11,7 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
 
 <p>  
       <center>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</center>
-  <img src="![NEMA_LOGO](uploads/aee08212914db6a5acfaff00c7aec50b/NEMA_LOGO.jpg)" title="Nemasystem Logo">
+  <img src="./imgs/logo.jpeg" title="Nemasystem Logo">
 </p>
 
 <h1><b>1.0 ENTREGA 01 (05/03/2020)</h1>
