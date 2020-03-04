@@ -11,18 +11,18 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
 
 <p>  
       <center>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</center>
-  <img src="https://drive.google.com/open?id=1hGlrj73QpfwHV501mq_4JM0Z5UdMKJbK" title="Nemasystem Logo">
+  <img src="![NEMA_LOGO](uploads/aee08212914db6a5acfaff00c7aec50b/NEMA_LOGO.jpg)" title="Nemasystem Logo">
 </p>
 
 <h1><b>1.0 ENTREGA 01 (05/03/2020)</h1>
 <ul> 
-<li><b>1.1</b> [EQUIPE E TENA](https://drive.google.com/open?id=1RjranTYG8ntq7jZjg3wKJ1qzRvF8aZY3)</li>
+<li><b>1.1</b> [EQUIPE E TEMA](https://drive.google.com/open?id=1RjranTYG8ntq7jZjg3wKJ1qzRvF8aZY3)</li>
 </ul>
 
-<h1><b>2.0 ENTREGA 02 (10/03/2020)</h1>
+<h1><b>2.0 ENTREGA 02 (19/03/2020)</h1>
 <ul>
 <li><b>2.1</b> [MVP - PRODUTO MÍNIMO VIÁVEL]()</li>
-<li><b>2.2</b> [CRONOGRAMA]()</li>
+<li><b>2.2</b> [LISTA DE FUNCIONALIDADES]()</li>
 </ul>
 
 <h1><b>3.0 ENTREGA 03 (26/03/2020)</h1>
@@ -37,8 +37,7 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
 <ul>
 <li><b>4.1</b> [MONTAGEM DO AMBIENTE DE DESENVOLVIMENTO]()</li>
 <li><b>4.2</b> [MONTAGEM DO GITLAB]()</li>
-<li><b>4.3</b> [EQUIPE E CURRICULOS]()</li>
-<li><b>4.4</b> [MAPA DE DEFINIÇÃO TECNOLÓGICA]()</li>
+<li><b>4.3</b> [MAPA DE DEFINIÇÃO TECNOLÓGICA]()</li>
 </ul>
 
 <h1><b>5.0 SPRINT 01 (16/04/2020)</h1>
@@ -57,7 +56,7 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
 <li><b>6.6</b> [IMPLANTAÇÃO DO BANCO DE DADOS NO SERVIDOR]()</li>
 </ul>       
 
-<h1><b>7.0 SPRINT 03 (15/05/2020)</h1>
+<h1><b>7.0 SPRINT 03 (14/05/2020)</h1>
 <ul>
 <li><b>7.1</b> [IMPLEMENTAÇÃO DOS RELATÓRIOS]()</li>
 <li><b>7.2</b> [IMPLEMENTAÇÃO DOS DASHBOARDS - GRÁFICOS]()</li>
@@ -85,7 +84,7 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
 <li><b>9.3</b> [LIÇÕES APRENDIDAS]()</li>
 </ul>
 
-<h1><b>10.0 ENTREGA DO VÍDEO FINAL (30/04/2020)</h1>
+<h1><b>10.0 ENTREGA DO VÍDEO FINAL (15/06/2020)</h1>
 <ul>
 <li><b>10.1</b> [APRESENTAÇÃO DO PROJETO EM VÍDEO]()</li>
 </ul>
