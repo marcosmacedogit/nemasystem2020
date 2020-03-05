@@ -28,8 +28,8 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
 <h1><b>3.0 ENTREGA 03 (26/03/2020)</h1>
 <ul>
 <li><b>3.1</b> [CRONOGRAMA]()</li>
-<li><b>3.2</b> [MAPA DO CONHECIMENTO]()</li>
-<li><b>3.3</b> [MATRIZ DE HABILIDADES INICIAL](https://drive.google.com/open?id=1_Ah7Y-tq8Q3FJnb9nS8Sr9JRCegNVUq9)</li>
+<li><b>3.2</b> [MAPA DO CONHECIMENTO](https://drive.google.com/open?id=1_Ah7Y-tq8Q3FJnb9nS8Sr9JRCegNVUq9)</li>
+<li><b>3.3</b> [MATRIZ DE HABILIDADES INICIAL]()</li>
 <li><b>3.4</b> [PROJEC CHARTER]()</li>
 </ul>
 
