@@ -22,7 +22,7 @@ O objetivo deste projeto é automatizar a entrada, processamento e saída dos da
 <h1><b>2.0 ENTREGA 02 (19/03/2020)</h1>
 <ul>
 <li><b>2.1</b> [MVP - PRODUTO MÍNIMO VIÁVEL]()</li>
-<li><b>2.2</b> [LISTA DE FUNCIONALIDADES]()</li>
+<li><b>2.2</b> [LISTA DE FUNCIONALIDADES](https://drive.google.com/open?id=12fzKloSLVB-OBHh-scuhp78Go7vYTVux)</li>
 </ul>
 
 <h1><b>3.0 ENTREGA 03 (26/03/2020)</h1>
